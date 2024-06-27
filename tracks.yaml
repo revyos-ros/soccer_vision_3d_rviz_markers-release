@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/soccer_vision_3d_rviz_markers-release
 tracks:
   iron:
     actions:
